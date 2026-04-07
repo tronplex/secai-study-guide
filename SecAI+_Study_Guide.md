@@ -1,5 +1,7 @@
 # CompTIA SecAI+ (CY0-001) Study Guide
 
+## My notes from Cert Mike's SecAI+ Course on Udemy, enhanced by my robot friend.
+
 > **Exam Snapshot:** Max 60 questions · 60 minutes · Passing score 600/900 · Multiple-choice & performance-based
 
 ---
